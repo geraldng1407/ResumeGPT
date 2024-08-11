@@ -1,0 +1,128 @@
+{
+    "education": [
+      {
+        "school": "Singapore Management University",
+        "degree": "Degree in Bachelor of Science (Computer Science)",
+        "date": "Aug 2021 – Dec 2024 (expected)",
+        "gpa": "Cumulative GPA: 3.54/4.0 (Cum Laude)",
+        "track": "Artificial Intelligence and Cybersecurity with a Second Major in Business Analytics"
+      }
+    ],
+    "skills": {
+      "front_end": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "React",
+        "React Native",
+        "React.js",
+        "Vue"
+      ],
+      "back_end": [
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Java",
+        "Springboot",
+        "Flask"
+      ],
+      "machine_learning": [
+        "Python",
+        "Keras",
+        "Tensorflow",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Jupyter Notebook",
+        "Pytorch",
+        "Langchain"
+      ]
+    },
+    "experience": {
+      "machine_learning": [
+        {
+          "company": "AI Singapore Pte Ltd",
+          "duration": "May 2024 to Aug 2024",
+          "title": "Machine Learning Engineer (Internship)",
+          "responsibilities": [
+            "Led development of an on-premise large language model (LLM) AI assistant, ensuring 100% data privacy compliance.",
+            "Leveraged Langchain library to implement advanced retrieval-augmented generation (RAG) techniques, resulting in a 25% improvement in response accuracy across 10,000+ test queries.",
+            "Optimized RAG performance by integrating Map Reduce, Stuffing, and Reranking methods, achieving a 30% increase in relevant document retrieval and a 15% boost in answer generation quality.",
+            "Engineered an agent-based system using Langchain that dynamically selects optimal RAG techniques, improving adaptability by 35% and reducing irrelevant responses by 50% in diverse query scenarios."
+          ]
+        }
+      ],
+      "software_engineering": [
+        {
+          "company": "Secureage Technology Pte Ltd",
+          "duration": "May 2023 to Aug 2023",
+          "title": "Software Engineer (Internship)",
+          "responsibilities": [
+            "Spearheaded the comprehensive upgrade of the company’s Storybook application, transitioning it seamlessly from version 6.0 to 7.0 and concurrently migrating from Vue 2.0 to 3.0.",
+            "Orchestrated the refactoring and optimization of the Storybook codebase, achieving a remarkable 30% reduction in code volume.",
+            "Innovatively implemented a searchable table of i18n translation phrases, streamlining the process for developers to locate the precise strings for their UI components.",
+            "Thoroughly documented over 100 UI components in Storybook, providing developers with essential code snippets, prop descriptions, and visual examples as valuable references, ensuring seamless integration with the upgraded versions."
+          ]
+        }
+      ]
+    },
+    "projects": {
+        "machine_learning":[
+            {
+                "name": "ResumeGPT",
+                "github_link": "https://github.com/geraldng1407/ResumeGPT",
+                "details":[
+                    "Developed ResumeGPT, a dynamic resume writer designed to tailor resumes based on specific job applications, increasing the likelihood of passing initial screening stages.",
+                    "Leveraged LangChain and OpenAI GPT, integrating advanced natural language processing to generate highly customized resumes that align with job requirements.",
+                    "Implemented advanced customization algorithms, which improved application success rates by targeting keywords and skills directly relevant to job postings.",
+                    "Optimized resume generation processes, resulting in a 40% increase in the rate of resumes passing initial automated screenings compared to generic resume formats."
+                ]
+            },
+            {
+                "name": "Image Caption Generator",
+                "github_link": "https://github.com/geraldng1407/Image-Caption-Generator",
+                "details": [
+                  "Developed machine learning models utilizing open-source architectures like VGG16 and Keras Library and training code to automate image caption generation, scoring 0.54 on BLEU metric for caption quality evaluation.",
+                  "Preprocessed image datasets and text corpuses to prepare data for model training, increasing data efficiency by 15%.",
+                  "Trained deep learning models including CNN encoder and LSTM decoder architectures to generate descriptive captions.",
+                  "Developed a movie recommendation system in Python to suggest movies to users based on similarity of movie genres and synopses, delivering top 5 recommended movies with 75% precision based on user preferences."
+                ]
+            }
+        ],
+        "software_engineering": [
+            {
+                "name": "Green Habor",
+                "github_link":"",
+                "details":[
+                    "Developed Green Harbor to connect users with food rescue opportunities and skill-building workshops, using Flask for backend services and RabbitMQ for message brokering, and Kubernetes for container orchestration.",
+                    "Leveraged AWS services including Amazon RDS, Lambda, Cognito, DynamoDB, and Elasticsearch to create a scalable, secure, and efficient platform.",
+                    "Implemented real-time notifications to alert users about new food rescue items, enhancing user engagement and reducing food waste.",
+                    "Facilitated Freegan workshops on skills like object repair and food cultivation, empowering users with practical knowledge and resources."
+                ]
+            },
+            {
+                "name": "Smart Inventory",
+                "github_link": "https://github.com/hongyao38/SmartInventory",
+                "details": [
+                  "Designed and engineered a responsive web application for household food inventory tracking using Spring Boot and React.js.",
+                  "Developed SQL database and implemented CRUD operations to enable users to add, update, and delete food items and view expiry information.",
+                  "Created an intuitive dashboard interface visualizing food stock levels and expiry timelines to optimize grocery planning."
+                ]
+            }
+        ]
+    },
+    "certifications": [
+      {
+        "name": "Oracle Certified Foundations Associate, Java",
+        "issued_by": "Oracle",
+        "date": "Mar 2022",
+        "description": "Earned Oracle Certified Foundations Associate, Java certification validating core knowledge of Java programming including syntax, OOP concepts, exceptions, Strings, arrays, loops, and object handling."
+      }
+    ]
+  }
+  
